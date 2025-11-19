@@ -1,7 +1,7 @@
 # Hello, I'm Pau Massana 👨🏻‍💻 🇺🇸
 ### Telecommunications Technologies and Services Engineer at UPC 🚀
 
-![https://github.com/](.png)
+
 
 I am a Telecommunications Engineer specialized in Cybersecurity, currently based in Barcelona and actively enhancing my skills through practical internships and academic training at UPC (Universitat Politècnica de Catalunya). With a strong foundation in telecommunications technologies and services, I have developed expertise in network security, data protection, and risk management.
 
@@ -21,10 +21,10 @@ In this repository, you'll find the source code for my personal website, where I
 
 
 
-- Web Development: 
-- Backend Technologies: 
-- Front-End Frameworks: 
-- Blockchain: 
+- Web Development
+- Backend Technologies
+- Front-End Frameworks
+- Blockchain 
 
 <br>
 
